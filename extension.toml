@@ -1,0 +1,7 @@
+id = "synthwave-alpha-theme"
+name = "Synthwave Alpha Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["Viktor Persson"]
+description = "A Synthwave inspired dark theme"
+repository = "https://github.com/vikpe/synthwave-alpha-zed"
