@@ -1,6 +1,6 @@
 id = "synthwave-alpha-theme"
 name = "Synthwave Alpha Theme"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["Viktor Persson"]
 description = "A Synthwave inspired dark theme"
